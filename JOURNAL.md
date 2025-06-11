@@ -51,3 +51,33 @@ I want this keyboard to be low-profile, so I went looking for some low profile k
 I'll use THT diodes for the matrix, probably 1N4148 diodes.
 
 **Total time spent: 3h**
+
+# June 9th PCB Design
+
+With all the hardware choices out of the way, I started designing the schematic and PCB.
+
+I downloaded some libraries and setup the key switch matrix
+
+![image](https://github.com/user-attachments/assets/0d92764f-4ae7-431d-a7da-f7349d7ad8c9)
+
+my switch matrix.
+
+I plan on making this a reversible matrix, so its only one half.
+
+I then decided to do per key RGB, so I setup that too.
+
+![image](https://github.com/user-attachments/assets/24aa80e7-8735-4e8a-92e7-05aad1fc42ae)
+
+Its much simpler.
+
+From there I wired up the microcontoller and battery
+
+![image](https://github.com/user-attachments/assets/7d37419a-08d0-4712-98bf-d9702e920a83)
+
+With that out of the way, I started on the PCB, which was relatively easy.
+
+![image](https://github.com/user-attachments/assets/a6eb77c2-e36e-438c-b72a-c7d290030d14)
+
+This is the location I settled on.
+
+**Total time spent: 3h**
