@@ -1,0 +1,8 @@
+Name,Reference,Quantity,Value,Footprint,Part Link,Description,Price (USD)
+1N4148 Diodes,"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18",36,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,https://www.aliexpress.us/item/1005004962400215.html,Used for switch matrix,$0.99
+Gateron KS-33 Low Profile Switches,"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18",36,,Gateron-KS33-Solderable-1U,https://www.aliexpress.us/item/1005006637645158.html,Low-profile switches,$23.19
+Seeed XIAO nRF52840,"U1",2,,XIAO-nRF52840-DIP-Batt,https://www.aliexpress.us/item/1005008484816031.html,Bluetooth MCU for wireless split connectivity,$31.11
+601730 3.7V LiPo Battery,"J1",2,250mAh,PinHeader_1x02_P2.54mm_Vertical,https://www.aliexpress.us/item/4000859116608.html,Battery for MCU,$11.08
+PCB,"hexboard-left, hexboard-right",2,,,https://jlcpcb.com/,PCB for the left and right halves of the keyboard,$24.33
+M3x5x4 Heatset Inserts,,8,,,https://www.aliexpress.us/item/4000232858343.html,Heatset inserts for mounting components,$0.99
+M3x16 Screws,8,,,https://www.aliexpress.us/item/32794842281.html,Screws for securing the PCB to the case,$0.99
