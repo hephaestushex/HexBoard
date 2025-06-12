@@ -149,6 +149,10 @@ To check if I'm still under the limit, I decided to put together the BOM.
 
 I sourced everything from aliexpress except the pcb and case (not on yet since I have no idea how much filament it needs)
 
+I also made the BOM in table format in the README.md
+
+**Total time spent: 4h**
+
 
 
 
