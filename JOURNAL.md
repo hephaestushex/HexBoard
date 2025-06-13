@@ -153,6 +153,28 @@ I also made the BOM in table format in the README.md
 
 **Total time spent: 4h**
 
+# June 13th: Case Design and PCB Redesign
+
+I started to design the case, when I realized that my ergonomic setup wouldn't work with Keyboard Layout editor, as apparently it can't handle eighth units.
+So I'm stuck designing my own plate. 
+
+When I hopped into kicad, I realized that my thumb cluster was not properly designed, so I basically redid the pcb, this time capturing the measurements necessary. This also helped me reduce the number of vias I used, making it cheaper!
+
+## Right Half
+
+![image](https://github.com/user-attachments/assets/23a82d75-d99d-4242-8e66-74ee17efdfb8)
+
+## Left Half
+
+![image](https://github.com/user-attachments/assets/2a403127-e039-4e2c-b230-db6b1c1b9b47)
+
+I also redid the cost calculations with the new pcbs, but it didnt change.
+
+Now, I can start with the case/plate.
+
+
+
+
 
 
 
