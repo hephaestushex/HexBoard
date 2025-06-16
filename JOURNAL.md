@@ -172,6 +172,23 @@ I also redid the cost calculations with the new pcbs, but it didnt change.
 
 Now, I can start with the case/plate.
 
+Since Keyboard layout editor doesn't support eight units, I have to design my own plate, which kinda sucks.
+
+Anyway, I tried my best to create my own plate, and this is what I go before I gave up.
+
+![image](https://github.com/user-attachments/assets/fe06e645-7113-4172-b99c-c87bd2b66af0)
+
+This was my first time using fusion, so it took forever, dealing with constraints, rectangular patterns and so much more.
+
+**Total time spent: 5h**
+
+
+
+
+
+
+
+
 
 
 
