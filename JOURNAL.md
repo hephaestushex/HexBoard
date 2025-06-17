@@ -218,6 +218,6 @@ A quick edit in the footprint assignment tool yielded a fixed pcb.
 
 ![image](https://github.com/user-attachments/assets/825dcc2b-ff47-450a-b3c4-fe7cec1054f9).
 
-Now, for the new heatsets.
+**Total Time spent: 1h**
 
 I modified the csv to reflect the new inserts.
