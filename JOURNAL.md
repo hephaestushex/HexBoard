@@ -220,4 +220,34 @@ A quick edit in the footprint assignment tool yielded a fixed pcb.
 
 **Total Time spent: 1h**
 
-I modified the csv to reflect the new inserts.
+# June 17th: Case Done*
+
+I started off with some research as to the dimensions of my case. It was very boring, but eventually 
+I found out that the distance between the bottom of the plate and the top of the case floor should be 4.5mm
+
+The research led me to find out that my current hardware is good, so I just went with the m3 bolts. The heads will protrude now, but that should be fine.
+
+The fact that the heads will protrude made me have to move the bolts to the side, which ended up looking like a sandwich mount, like this, except for the fact that the bolts will come from the top instead
+
+![image](https://github.com/user-attachments/assets/997f571b-0c2f-4e4a-a8f4-4cf4dbae7a4a)
+
+Heres what the bottom looks like, after redoing the pcbs, schematics, and the sketch
+
+![image](https://github.com/user-attachments/assets/51891da7-3d22-4659-bc8b-f952fbd8aff0)
+
+As for the top, it was as simple as copying over the outline and fixing the holes in place.
+
+![image](https://github.com/user-attachments/assets/390a27ed-23fd-4390-a9a4-a4ca3b38c043)
+
+The plate should be 3mm thick, with 1.2mm thick rectangles for the switch to clip onto. I didn't design these yet, as I want to do it after receiving the switches, which would allow me to experiment with mounting styles.
+
+heres how the plate looks after a quick extrusion
+
+![image](https://github.com/user-attachments/assets/a1d7320b-0760-4c1b-85b6-97e12b767a76)
+
+![image](https://github.com/user-attachments/assets/f725f80f-3720-435d-9522-691700013a1f)
+
+i still need to fillet it tho
+
+**Total time spent: 3h**
+
