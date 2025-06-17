@@ -182,16 +182,42 @@ This was my first time using fusion, so it took forever, dealing with constraint
 
 **Total time spent: 5h**
 
+# June 15th: Case Redesign
 
+This clearly wasn't working, so I tried KLE again. I just ignored the warnings, and came up with this plate.
 
+![image](https://github.com/user-attachments/assets/88bf9425-6055-40a0-b776-b9af4265666a)
 
+its so much better, and I can properly deal with this. Obviously the plate isn't meant to be a square, so thats a tomorrow problem
 
+**Total time spent: 30min**
 
+# June 16th: Case Design (for real this time)
 
+I decided to start designing the case, and it looked good!
 
+45 mins in and this is what I have
 
+![image](https://github.com/user-attachments/assets/b0ec192a-0ee5-4e94-97fe-0b85b12de25b)
 
+It looks good, so I designed a cross section to see how it would mount
 
+![image](https://github.com/user-attachments/assets/6a146765-8f7d-47d5-8987-bb61cb4cd5ce)
 
+its way too large (2 cm), so I realized i should probably use m2 bolts instead.
 
+Back to PCB design ... sigh
 
+It wasn't too bad, I just made two different folders for each half. 
+
+Here's the new folder structure
+
+![image](https://github.com/user-attachments/assets/06859964-9a5b-4877-862a-87ad5e00881f)
+
+A quick edit in the footprint assignment tool yielded a fixed pcb.
+
+![image](https://github.com/user-attachments/assets/825dcc2b-ff47-450a-b3c4-fe7cec1054f9).
+
+Now, for the new heatsets.
+
+I modified the csv to reflect the new inserts.
