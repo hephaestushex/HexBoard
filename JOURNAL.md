@@ -251,3 +251,34 @@ i still need to fillet it tho
 
 **Total time spent: 3h**
 
+# June 18th: Case Fully Done
+
+I started off by redoing the extrusions, so I can create a divot.
+
+It was time consuming, but 30 mins later I got this 
+
+![image](https://github.com/user-attachments/assets/a8ee2c16-92da-4f33-b3be-2fdaa7f2c4a0)
+
+You can see the parts where the switch clips to.
+
+I also took some time to fillet the entire case.
+
+Filleted the top plate:
+
+![image](https://github.com/user-attachments/assets/e500f005-93e1-4fb1-8149-da8420323a92)
+
+And the bottom case:
+
+![image](https://github.com/user-attachments/assets/e4289b90-26a6-4a12-a6b2-7a32c964691d)
+
+That's pretty much it for the case so I exported, both left and right.
+
+I put the cad files in the repo, and that's all I did for today.
+
+![image](https://github.com/user-attachments/assets/e25ca271-ca1b-44c2-ba1f-8da1ecb8f183)
+
+**Total time spent: 1h**
+
+
+
+
