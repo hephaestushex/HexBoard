@@ -10,6 +10,10 @@ I made this split keyboard because it was a great project for learning PCB desig
 
 ![image](https://github.com/user-attachments/assets/11d7a824-fa69-4ea1-83cb-c59e825c36d7)
 
+## Case
+
+![image](https://github.com/user-attachments/assets/54c539ad-4426-4495-a85a-a3825bd8dee1)
+
 # Firmware
 
 This kb uses ZMK for firmware. Due to ZMK's requirement of using another repo, all of the zmk code is in this [repo](https://github.com/hephaestushex/zmk-config-hexboard)
