@@ -10,6 +10,9 @@ I made this split keyboard because it was a great project for learning PCB desig
 # CAD
 ## PCB
 
+![image](https://github.com/user-attachments/assets/01b26dde-56ff-483b-b14a-a8f3ce19261a)
+
+
 ![image](https://github.com/user-attachments/assets/b695c5c2-49b6-4c80-aaf9-4e54865751d7)
 
 ![image](https://github.com/user-attachments/assets/90f76e46-734e-4ae8-8dd2-ed004ada812d)
