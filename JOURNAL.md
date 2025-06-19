@@ -279,6 +279,65 @@ I put the cad files in the repo, and that's all I did for today.
 
 **Total time spent: 1h**
 
+# Jun 19th: Firmware Done*
+
+Since I'm using the nRF52840, my only options for firmware are ZMK and KMK. The docs for KMK say that it has to be precompiled, and a whole bunch of nonsense that made it not worth it to use KMK. ZMK isn't any easier, but at least there's a lot of documentation for it.
+
+I started off with Joe Scotto's tutorial, but it looked out of date, plus mine is split. So, time to delve into the docs.
+
+It took a while to find what I needed, since the actual development of shields was put in the later sections of the docs. I pretty much installed zmk, created a new repo for it, and started creating!
+
+## Some screenshots of the code required
+
+![image](https://github.com/user-attachments/assets/d462e658-31e8-4060-85a4-d17c49522ca2)
+
+![image](https://github.com/user-attachments/assets/94c5a08c-e84d-4f03-932b-98fdeebf3768)
+
+![image](https://github.com/user-attachments/assets/71147476-1967-45b2-b465-1a98b80d24e7)
+
+![image](https://github.com/user-attachments/assets/293cf488-ec52-4375-8d05-364de9751125)
+
+The last image is of my keymap. For now, its pretty sparse, but I plan on filling it out fully.
+
+an hour in, its time for building!
+
+I sure hope that no bugs will come!
+
+**There. were. so. many. bugs.**
+
+The terrible part is that it takes forever for these bugs to show up, since it takes time to build.
+
+![image](https://github.com/user-attachments/assets/d501d892-ceb1-418b-a54a-08a0cb004e09)
+
+The first two were the initial builds, but the last three are bugs in my code.
+
+If you noticed in my keymap, I actually used a Colemak layout. I wanted to learn colemak, so I'm taking this as an opportunity to learn it.
+
+so while it takes time to build ...
+
+![image](https://github.com/user-attachments/assets/6d77d858-632c-4c24-ab57-696116bff750)
+
+im learning colemak!
+
+![image](https://github.com/user-attachments/assets/baa33a4a-5fe9-488d-85ea-d5f1834611e3)
+
+Finally at 1:23 it built.
+
+![image](https://github.com/user-attachments/assets/5307670b-8329-4272-8289-455bf2fe125c)
+
+FINALLY!!!!
+
+Here's my colemak accuracy by the way:
+
+![image](https://github.com/user-attachments/assets/1c013c55-3a2e-4a5a-a8de-1f271b4b5346)
+
+That's pretty much everything I think I have to do before I submit.
+
+
+
+
+
+
 
 
 
