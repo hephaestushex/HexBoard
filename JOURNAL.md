@@ -333,6 +333,27 @@ Here's my colemak accuracy by the way:
 
 That's pretty much everything I think I have to do before I submit.
 
+I pushed the two uf2 files to github
+
+![image](https://github.com/user-attachments/assets/1133172a-4267-4528-bce7-b6a49786aa19)
+
+I took some time to revise the README and the BOM.
+
+AliExpress for some reason changed the prices on me, so I have to update the prices. It also allowed me to fix items that ship later.
+
+That looked to be pretty much everything, so I checked the website to see if I'm missing anything.
+
+I was missing a couple of images, plus some BOM formatting. It took a while to place all the switches, so in total, about 45 mins.
+
+![image](https://github.com/user-attachments/assets/3103e7c7-cb83-4ac8-9052-db721e69d588)
+
+This is how it looked once I placed all of them. 
+
+That's it, so I'm going to submit this.
+
+**Total time spent: 3.5h**
+
+
 
 
 
