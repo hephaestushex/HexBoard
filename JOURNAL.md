@@ -4,6 +4,8 @@ author: "hephaestushex"
 description: "A split keyboard"
 created_at: "2025-06-05"
 ---
+# Hexboard Journal
+
 # June 9th: Got some initial planning done
 
 ## Keyboard Layout
