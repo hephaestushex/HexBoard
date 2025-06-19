@@ -12,7 +12,13 @@ I made this split keyboard because it was a great project for learning PCB desig
 
 ![image](https://github.com/user-attachments/assets/b695c5c2-49b6-4c80-aaf9-4e54865751d7)
 
+![image](https://github.com/user-attachments/assets/90f76e46-734e-4ae8-8dd2-ed004ada812d)
+
+
 ![image](https://github.com/user-attachments/assets/11d7a824-fa69-4ea1-83cb-c59e825c36d7)
+
+![image](https://github.com/user-attachments/assets/26250ff4-b56e-4483-9b6d-395384a4eb98)
+
 
 ## Case
 
