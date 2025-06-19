@@ -43,6 +43,10 @@ This kb uses ZMK for firmware. Due to ZMK's requirement of using another repo, a
 | M3x5x4 Heatset Inserts |  | 8 |  |  | [AliExpress](https://www.aliexpress.us/item/4000232858343.html) | Heatset inserts for mounting components | $6.23 |
 | M3x6 Screws | H1-4 | 8 |  | MountingHole_3.2mm_M3 | [AliExpress](https://www.aliexpress.us/item/32794842281.html) | Screws for securing the PCB to the case | $2.89 |
 | Slide SPDT Switches | SW19 | 2 |  | SW_Slide_SPDT_Straight_CK_OS102011MS2Q | [AliExpress](https://www.aliexpress.us/item/1005007162182882.html) | Slide switch for power control | $1.46 |
-| Total  |  |  |  |  |  |  | $97.70 |
+| AliExpress Total  |  |  |  |  |  |  | $75.80 |
+| JLCPCB Total  |  |  |  |  |  |  | $30.80 |
+| Grand Total |  |  |  |  |  |  | $106.60 |
+
+
 
 
