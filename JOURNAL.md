@@ -1,7 +1,7 @@
 ---
 title: "HexBoard"
 author: "hephaestushex"
-description: "A split keyboard"
+description: "A wireless split keyboard powered by the nRF52840"
 created_at: "2025-06-05"
 ---
 
