@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "hexboard.stl",
+      "step": "hexboard.step",
       "svg": "",
       "vrml": ""
     },
