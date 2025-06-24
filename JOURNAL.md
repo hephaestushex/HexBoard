@@ -382,7 +382,19 @@ And this is the final design!
 
 I have black and red pla filament, and this is what itll probably look like.
 
-**Total time spent: 2h**
+I also decided to take a render, and I added this to the README
+
+![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa89db46a0616ceec7e96bbd6a2fd4cc0817f5ea_render.png)
+
+From there I refactored the object and exported everything. I also took the time to colorize the case in the Bambu Slicer, and saved it as a 3mf file.
+
+![image](https://github.com/user-attachments/assets/3eb3d44a-5d7f-4bad-97b1-4c4d175c0407)
+
+the colorized part is above all the black parts, so there is only one filament change.
+
+Now, the assembly steps looks like solder diodes, switches, mcu, battery onto pcb, insert switches into plate, solder switches to PCB, screw plate to bottom shell. 
+
+**Total time spent: 3h**
 
 
 
