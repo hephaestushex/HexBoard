@@ -356,6 +356,33 @@ That's it, so I'm going to submit this.
 
 **Total time spent: 3.5h**
 
+# June 23rd: Case Redesign
+
+I already submitted this in the slack, but I realized my case didn't have much design to it. I wanted to create a design to boost my chances of getting accepted, plus, i didn't like the look of a plain pcb.
+
+1h 30mins in, I got this:
+
+![image](https://github.com/user-attachments/assets/8a2e6604-523f-44e5-a332-f420dfea82ba)
+
+I took some time to design around the xiao, but I liked this look in the end.
+
+I meant to also add some color, so I re did the appearances close to what it would look like IRL
+
+![image](https://github.com/user-attachments/assets/bcb9ec16-e66d-418c-be16-ea54f5ee2bbd)
+
+After doing that, I realized I didnt like the look of the xiao board, so I added some material to hide that aswell.
+
+It allowed me to completely hide the usb-c port 
+
+![image](https://github.com/user-attachments/assets/de415bf9-e48a-4aec-a339-039615df3202)
+
+And this is the final design!
+
+![image](https://github.com/user-attachments/assets/6db31906-7faa-4de5-9ce7-1342b99e130a)
+
+I have black and red pla filament, and this is what itll probably look like.
+
+**Total time spent: 2h**
 
 
 
