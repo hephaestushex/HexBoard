@@ -1,6 +1,6 @@
 # HexBoard
 
-![image](https://github.com/user-attachments/assets/eb47faea-bb8a-46cb-85a3-80fab37312d4)
+![image](https://github.com/user-attachments/assets/466e8cf9-62c7-4722-b00c-87eb7bb91e9b)
 
 A wireless split keyboard designed by HephaestusHex. It uses the SEEED Studio XIAO nRF52840 for wireless bluetooth connectivity
 
