@@ -396,7 +396,58 @@ Now, the assembly steps looks like solder diodes, switches, mcu, battery onto pc
 
 **Total time spent: 3h**
 
+# July 10th: Assembly (Part One):
 
+Note: I forgot to journal this, so this is written on july 23rd, when I finally got the batteries.
+
+I received all the parts except for the battery, so I printed off the plate to start assembly.
+
+![IMG_0788](https://github.com/user-attachments/assets/8fbcdbc6-fa08-4d71-8dcc-a7352295d7a0)
+
+as you can see, the plate and pcb are touching, meaning I cant use diodes
+
+Unfortunately, the plate ended up being too thick, and the diodes wont fit. (it would have worked if it was SMD).
+
+So I had to reprint thinner plates. After they printed I started snapping in the switches.
+
+![IMG_0790](https://github.com/user-attachments/assets/e4f7bd69-aaae-4b8c-b20f-373713753e08)
+![IMG_0789](https://github.com/user-attachments/assets/7ecd4669-c762-4e8f-8d3c-8375d86264bb)
+
+As you can see in the back, I also placed the diodes in the holes.
+
+After this, I realized I had made another mistake. This time I foolishly assumed in my cad that I would SMD solder the XIAO. I had soldered on the headers, so now I had to remove them.
+
+![IMG_0791](https://github.com/user-attachments/assets/add812c8-7434-42de-87cf-24cd739022ad)
+
+The process was pretty simple, with using diagonal cutters to cut the black parts, remove them, and then use the soldering iron plus some tweezers to remove each pin.
+
+I then soldered the diodes + the mcu, cut the legs off, and soldered the switches as well.
+
+![IMG_0793](https://github.com/user-attachments/assets/8ec2c282-d24a-493e-808b-0753f37ebcb8)
+![IMG_0792](https://github.com/user-attachments/assets/7f911a7a-905d-4192-b1b4-86f571544b10)
+
+Here's how it looked.
+
+It was undercity tomorrow, so I basically speedran everything. I had forgotten to print the bottom part, so I put it to print and fell asleep. 
+
+**Total time spent: 4h**
+
+# July 11th: Assembly (Part Two)
+
+I woke up (at like 4AM), put the heatset inserts in, and finally assembeled the keyboard.
+![IMG_0795](https://github.com/user-attachments/assets/a5d57f7d-e36a-4e62-a20e-2db67cf4f2e6)
+
+![IMG_0796](https://github.com/user-attachments/assets/c527909f-a041-4040-ac35-a2cb49f8beac)
+
+I slapped the basic firmware in, and left for undercity. In Github HQ I realized that certain keys didn't work, so I had to fix it later.
+
+**Total time spent: 30mins**
+
+# July 22nd: Assembly (Part Three):
+
+I received the batteries (finally!), and realized the keyboard still doesn't work. What I did was find the keys that didn't work, replaced them with a letter (T) and tried again. Looks like middle key on the thumb cluster on the left half doesn't work, and the entire thumb cluster on the right half doesn't work. I also figured out that bridging the pins on the left half worked, but not on the right. Looks like I fried a pin. I'll have to fix that. I had to leave, so that's all I did.
+
+**Total time spent: 30mins**
 
 
 
