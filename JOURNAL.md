@@ -5,7 +5,7 @@ description: "A wireless split keyboard powered by the nRF52840"
 created_at: "2025-06-05"
 ---
 
-# Total Time Spent: 25.5 Hours
+# Total Time Spent: 33.5 Hours (including building)
 
 # June 9th: Got some initial planning done
 
@@ -448,6 +448,48 @@ I slapped the basic firmware in, and left for undercity. In Github HQ I realized
 I received the batteries (finally!), and realized the keyboard still doesn't work. What I did was find the keys that didn't work, replaced them with a letter (T) and tried again. Looks like middle key on the thumb cluster on the left half doesn't work, and the entire thumb cluster on the right half doesn't work. I also figured out that bridging the pins on the left half worked, but not on the right. Looks like I fried a pin. I'll have to fix that. I had to leave, so that's all I did.
 
 **Total time spent: 30mins**
+
+# July 25th: Done! (sorta):
+
+I wrote the title with the Hexboard, but since my current WPM is so slow, I switched back to my regular keyboard.
+
+Part one: Battery
+
+I tried getting the battery working, but for some reason I never got it working on the left half. I updated the firmware, resoldered the joints, but it still doesnt work. It works on the right half though. 
+I added some code to the .overlay file in the zmk, and it supposedly reports the battery level. currently this doesn't matter, as zmk only reports the left half's battery, and only the right half is wireless. (the left half is only connected for power. Overall, this isn't too bad, as its only one usb-c wire on my desk. 
+
+Part two: missed keys.
+
+The only key on the left half that didn't work was the modifier, but upon further inspection it appeared that I forgot to solder a diode. As for the right half, it was more complicated. I rebuilt the firmware, using another pin, and soldered a wire from that pin (pin 7) to that row. I still had one problem though. The reset button on the right half was broken, and I had to find a workaround. I ended up grabbing some tin foil and touching that to the contacts. Only one key worked, so I inspected the board even more. It appeared that I burned the contacts on the PCB, so the traces never connected to the switch. I ended up soldering a wire to replace the traces that the switch couldnt connect to. 
+
+![WIN_20250726_16_46_26_Pro](https://github.com/user-attachments/assets/45821235-fef3-4f0b-b35c-0bc0f35dd257)
+
+![WIN_20250726_16_46_30_Pro](https://github.com/user-attachments/assets/f248c5ea-8861-4620-bd79-90c74620ffcd)
+
+![WIN_20250726_16_47_52_Pro](https://github.com/user-attachments/assets/857513f3-e08c-4332-b319-eede42801129)
+
+With that, I was finished. I just had two more things that I wanted to fix/add. One was fixing the battery on the left half, but that means I would have to desolder the entire mcu and try to clean the joints up. There was also a chance that the battery board was simply fried, and I don't want to go through all that. The second one was adding ZMK studio support to my keyboard. This means that I can easily modify the keymap, without building new firmware.
+
+It turns out that this process takes a while, as I have to define a physical layout. In the end, i got it in a web tool
+
+<img width="1076" height="862" alt="image" src="https://github.com/user-attachments/assets/d2fac4e4-f78a-4d20-984f-3ee950d05adb" />
+
+and the ide
+
+<img width="665" height="899" alt="image" src="https://github.com/user-attachments/assets/dac532db-e566-4e39-b8dd-2bff28436754" />
+
+So I pushed it to Github and let it build, while I got some more tin foil.
+
+After I reflashed the mcus, it worked!
+
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/4a45c931-f238-45ec-a532-44fcccf27541" />
+
+So that's it! It's finished! 
+
+I'll record some footage and upload it to youtube for a demo.
+
+**Total time spent: 3h**
+
 
 
 
