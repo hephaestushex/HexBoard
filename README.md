@@ -10,6 +10,10 @@ A wireless split keyboard designed by HephaestusHex. It uses the SEEED Studio XI
 
 I made this split keyboard because it was a great project for learning PCB design, ergonomics, case design, keyboard firmware, and more. I wanted to make a split keyboard specifically because during my research, I found it's better than a regular keyboard because of ergonomics that I won't get into. Ben Vallack has [videos](https://www.youtube.com/@BenVallack) that gets into the details.
 
+# YouTube Demo
+
+Access the youtube demo [here](https://www.youtube.com/watch?v=F45BFvxeQR0)
+
 # CAD
 ## PCB
 
