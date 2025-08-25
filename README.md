@@ -1,5 +1,7 @@
 # HexBoard
 
+![IMG_0879](https://github.com/user-attachments/assets/2a0d8ee2-14fa-4057-817f-6e4ccde94790)
+
 ![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa89db46a0616ceec7e96bbd6a2fd4cc0817f5ea_render.png)
 
 ![image](https://github.com/user-attachments/assets/466e8cf9-62c7-4722-b00c-87eb7bb91e9b)
@@ -7,6 +9,10 @@
 A wireless split keyboard designed by HephaestusHex. It uses the SEEED Studio XIAO nRF52840 for wireless bluetooth connectivity
 
 I made this split keyboard because it was a great project for learning PCB design, ergonomics, case design, keyboard firmware, and more. I wanted to make a split keyboard specifically because during my research, I found it's better than a regular keyboard because of ergonomics that I won't get into. Ben Vallack has [videos](https://www.youtube.com/@BenVallack) that gets into the details.
+
+# YouTube Demo
+
+Access the youtube demo [here](https://www.youtube.com/watch?v=F45BFvxeQR0)
 
 # CAD
 ## PCB
